@@ -1,8 +1,17 @@
-# get_data_getx
+# API using GetX
 
 A new Flutter project.
 
 ## Getting Started
+This project gets data from API and displays the data using GetX State Management
+
+[Link of API:](https://reqres.in/api/users?page=2), which gives the data of users
+
+
+# Dependincies used in this project
+- http:
+- GetX:
+
 
 This project is a starting point for a Flutter application.
 
